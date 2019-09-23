@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+    <string name="app_id">1068243944405</string>
+    <string name="package_name">com.xsquaredsoft.thefinaljump</string>
+    <string name="achievement_first_score">CgkI1Ye0wosfEAIQAQ</string>
+    <string name="achievement_like_fire">CgkI1Ye0wosfEAIQAg</string>
+    <string name="achievement_faster_than_wind">CgkI1Ye0wosfEAIQAw</string>
+    <string name="achievement_steady_as_a_rock">CgkI1Ye0wosfEAIQBA</string>
+    <string name="achievement_monster">CgkI1Ye0wosfEAIQBQ</string>
+    <string name="leaderboard_highscore">CgkI1Ye0wosfEAIQBg</string>
+</resources>

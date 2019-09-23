@@ -1,0 +1,34 @@
+
+JumpinGirl Player.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ch1
+  rotate: false
+  xy: 2, 2
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+Ch2
+  rotate: false
+  xy: 89, 2
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+Ch3
+  rotate: false
+  xy: 176, 2
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
+Ch4
+  rotate: false
+  xy: 263, 2
+  size: 85, 64
+  orig: 85, 64
+  offset: 0, 0
+  index: -1
